@@ -1,0 +1,1 @@
+[2021-01-08 21:03:24.220] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stefan/.config/picom/.vscode'
